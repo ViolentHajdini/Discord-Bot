@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-./secrets.py
+./app_locals.py
 
 # Distribution / packaging
 .Python
