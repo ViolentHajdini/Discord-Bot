@@ -130,3 +130,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 discord/app_local.py
+discord/appLocal.py
