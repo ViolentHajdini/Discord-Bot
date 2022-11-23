@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-./app_locals.py
+./app_local.py
 
 # Distribution / packaging
 .Python

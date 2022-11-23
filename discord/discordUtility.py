@@ -1,7 +1,7 @@
 import logging
 import discord
 from discord.ext import commands
-from app_locals import secret
+from app_local import secret
 
 
 SECRET_KEY = secret
