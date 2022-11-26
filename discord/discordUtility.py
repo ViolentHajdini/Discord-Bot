@@ -18,3 +18,5 @@ async def get_channel(ctx, *, given_name=None):
     await ctx.send(wanted_channel_id) # this is just to check 
 
 bot.run(SECRET_KEY)
+
+print('Yerr')
